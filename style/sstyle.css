@@ -1,0 +1,161 @@
+.profile_pic{
+    
+   align-items: center;
+
+   
+
+   
+}
+
+.heading{
+    text-align: center;
+    padding: 125px;
+    height: 15px;
+    width: 100px;
+   
+}
+.greating{
+
+    font-family: Merriweather;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: normal;
+    color: aliceblue;
+    text-align: center;
+}
+
+
+   
+    
+}
+
+.header-tittle{
+    text-align: center;
+
+
+}
+.wellcome{
+text-align: center;
+    
+}
+.button{
+        width: 80px;
+        height: 40px;
+
+
+}
+
+
+.profile_pic{
+    background-image: url("./../images/Banner Image.png");
+    background-size: cover;
+    height:600px;
+    background-repeat: no-repeat;
+    border: 5px solid yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile_pic2{
+    background-image: url("./../images/Vectorrr.png");
+    background-size: cover;
+    height:600px;
+    background-repeat: no-repeat;
+    border: 5px solid yellow;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    border: 10px solid red;
+}
+
+.heading profile_pic{
+
+}
+
+
+
+
+
+
+
+.party-images{
+    background-image: url("./../images/Vectorrr.png");
+    background-size: cover;
+    height:600px;
+    background-repeat: no-repeat;
+    border: 5px solid yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.happy{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+
+.color{
+    color: red;
+
+
+
+
+}
+
+.time-zone{
+
+    text-align: center;
+
+
+}
+
+.button{
+    background-color: red;
+    color: white;
+    font-weight:600;
+}
+
+.offer{
+    color: red;
+}
+.year{
+    color: red;
+    font-size:35px ;
+    padding-right: 35px;
+}
+
+.comming-soon{
+        display: flex;
+        justify-content: space-between;
+        padding-left: 35px;
+
+
+}
+
+.comming{
+        font-size:45px;
+
+}
+
+
+.radius{
+        border: 10px solid red;
+        border-radius:50%; 
+        padding: 20px;
+            
+
+
+
+}
+
+
+.redline{
+        position: relative;
+
+
+}
