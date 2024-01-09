@@ -51,7 +51,7 @@ text-align: center;
     background-size: cover;
     height:600px;
     background-repeat: no-repeat;
-    border: 5px solid yellow;
+    
     display: flex;
     justify-content: center;
     align-items: center;
@@ -62,11 +62,11 @@ text-align: center;
     background-size: cover;
     height:600px;
     background-repeat: no-repeat;
-    border: 5px solid yellow;
+    
     /* display: flex;
     justify-content: center;
     align-items: center; */
-    border: 10px solid red;
+   
 }
 
 .heading profile_pic{
@@ -84,7 +84,7 @@ text-align: center;
     background-size: cover;
     height:600px;
     background-repeat: no-repeat;
-    border: 5px solid yellow;
+  
     display: flex;
     justify-content: center;
     align-items: center;
